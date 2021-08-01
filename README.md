@@ -1,2 +1,2 @@
 # Aligner
-An ongoing just for fun project
+An ongoing passionate project
